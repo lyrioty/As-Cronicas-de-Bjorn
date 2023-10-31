@@ -1,2 +1,3 @@
-Para acessar o projeto, visite [esta página](As profecia de Bjorn teste chrome.html).
+Para acessar o projeto, clique [aqui](https://github.com/lyrioty/As-Cronicas-de-Bjorn).
+
 
